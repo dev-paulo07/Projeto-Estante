@@ -89,8 +89,8 @@ form .text-muted, form label {
 .estilo-input:-webkit-autofill:hover, 
 .estilo-input:-webkit-autofill:focus, 
 .estilo-input:-webkit-autofill:active  {
-    -webkit-box-shadow: 0 0 0 30px #252525 inset !important; /* Força o cinza do Notion por dentro */
-    -webkit-text-fill-color: #ffffff !important;             /* Força a letra a ficar branca */
+    -webkit-box-shadow: 0 0 0 30px #252525 inset !important;
+    -webkit-text-fill-color: #ffffff !important;             
 }
 
 .btn-outline-dark {
@@ -188,9 +188,9 @@ form .text-muted, form label {
 }
 
 footer.text-muted p {
-    color: rgba(255, 255, 255, 0.4) !important; /* Força o cinza claro do Notion sobre o Bootstrap */
-    font-size: 0.8rem;                           /* Mantém o visual small refinado */
-    letter-spacing: 0.3px;                       /* Espaçamento elegante entre as letras */
+    color: rgba(255, 255, 255, 0.4) !important; 
+    font-size: 0.8rem;                           
+    letter-spacing: 0.3px;                       
 }
 
 @media (max-width: 991.98px) {
